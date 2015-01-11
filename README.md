@@ -1,9 +1,11 @@
 jakotem
-=============
+=======
 
-Java's Kolon Template Engine
+Java, Kolon-ish, Template engine
 
-__THIS PROJECT IS UNDER DEVELOPMENT. PROVIDED API WILL BE CHANGED WITHOUT NOTICES.__
+__THIS PROJECT IS UNDER DEVELOPMENT. AND THIS PROJECT CONVINED WITH MY EXPERIMENTATION.__
+
+:skull: __DO NOT USE THIS__ :skull:
 
 Synopsis
 ---
@@ -14,6 +16,11 @@ Description
 --
 
 TBD
+
+Notes
+--
+
+Much codes are taken from [tokuhirom/jtt](https://github.com/tokuhirom/jtt).
 
 Author
 --
